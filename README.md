@@ -13,7 +13,7 @@ Your boss wants you to demonstrate the success of this code by running a query o
 
 You must create a Python code 'etl_project_gdp.py' that performs all the required tasks.
 
-## Project
+## Project banks_project.py
 
 A multi-national firm has hired you as a data engineer. Your job is to access and process data as per requirements.
 
